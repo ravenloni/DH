@@ -1,0 +1,16 @@
+@charset "UTF-8";
+
+.der{
+    margin-left: 20px;
+    float: right;
+}
+.izq{
+    margin-right: 20px;
+    float: left;
+}
+br{
+    clear: both;
+}
+section img{
+    border-radius: 5px;
+}

@@ -1,0 +1,47 @@
+@charset "UTF-8";
+
+body{
+    text-align: center;
+    background-image: url("../imagenes/fondo-piso-madera.jpg");
+    background-repeat:  no-repeat;
+    background-size: cover;
+    font-family: 'Times New Roman', Times, serif;
+}
+.contenedor{
+    display: inline-block;
+    width: 90%;
+}
+.logo{
+    width: 15%;
+}
+.titulo{
+    width: 55%;
+}
+a{
+    color: white;
+    text-decoration: none;
+}
+nav{
+    background-color: #292525;
+    border-radius: 15px;
+    margin: 30px 50px;
+    color: white;
+}
+nav ul{
+    display: inline-flex;
+}
+nav li{
+    font-size: 20px;
+    list-style: none;
+    margin: 0px 35px;
+}
+section{
+    background-color: #eae6dd;
+    border-radius: 10px;
+    margin: 0px 50px;
+    padding: 30px;
+}
+p{
+    text-align: justify;
+    font-size: 20px;
+}
